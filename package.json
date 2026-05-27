@@ -1,0 +1,21 @@
+{
+  "name": "ai-orchestrator",
+  "version": "0.1.0",
+  "private": true,
+  "description": "AI Orchestrator — a platform where multiple AI models collaborate sequentially to complete complex projects automatically.",
+  "workspaces": [
+    "frontend",
+    "api"
+  ],
+  "scripts": {
+    "dev:frontend": "npm run dev --workspace=frontend",
+    "dev:api": "npm run dev --workspace=api",
+    "build:frontend": "npm run build --workspace=frontend",
+    "build:api": "npm run build --workspace=api",
+    "prisma:generate": "npm run prisma:generate --workspace=api",
+    "prisma:migrate": "npm run prisma:migrate --workspace=api"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
