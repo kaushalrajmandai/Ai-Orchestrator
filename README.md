@@ -9,16 +9,10 @@
 
 ## Demo
 
-<!-- ═══════════════════════════════════════════════════════════════════
-     👇 DRAG & DROP YOUR DEMO VIDEO (.mp4) ONTO THE EMPTY LINE BELOW 👇
-     GitHub uploads it and inserts a playable video automatically.
-     After it appears, delete this comment block and the line below it.
-     ═══════════════════════════════════════════════════════════════════ -->
+
+https://github.com/user-attachments/assets/677c8295-0beb-4011-b24f-8b9385ca74da
 
 
-_Demo video coming soon — drop the .mp4 on the empty line just above._
-
----
 
 ## What it does
 
